@@ -1,2 +1,3 @@
 # BntzerKit
-Stuff I use on most swift projects
+
+A description of this package.
